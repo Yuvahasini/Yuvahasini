@@ -3,7 +3,6 @@
 - I like breaking problems down until they look simple enough to code.
 - Actively improving my understanding of core CS fundamentals — DSA, operating systems, and problem-solving patterns.
 - I prefer simple, readable solutions over clever but confusing ones.
-- 
 
 
 <!---
