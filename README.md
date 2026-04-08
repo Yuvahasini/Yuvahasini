@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YUVA%20HASINI%20DUDDEKUNTA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YUVA%20HASINI%20DUDDEKUNTA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Practical+%26+Scalable+Software;💡+Full-Stack+%7C+React+%7C+Flutter+%7C+Next.js;🤖+AI+%2F+ML+%7C+scikit-learn+%7C+Keras;🏗️+Clean+Code+%7C+Docker+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Practical+%26+Scalable+Software;💡+Full-Stack+%7C+React+%7C+Flutter+%7C+Next.js;🤖+Python+%7C+scikit-learn+%7C+Data+Analytics;🏗️+Clean+Code+%7C+Docker+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 <br>
 
@@ -50,12 +50,13 @@ Proficient in **Python and Java**, with a solid understanding of core CS concept
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🤖 AI / ML
+### 🤖 AI / ML & Data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### ⚙️ DevOps, Design & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,12 +77,13 @@ Proficient in **Python and Java**, with a solid understanding of core CS concept
 
 | 🏆 Project | 🔧 Tech Stack | 📄 Description |
 |:---|:---|:---|
-| 🌐 [**Full-Stack Web Application**](https://github.com/YuvaHasini) | React · Node.js · PostgreSQL · Firebase | Scalable full-stack app with real-time data, authentication, and multi-role access |
-| 📱 [**Flutter Mobile App**](https://github.com/YuvaHasini) | Flutter · Dart · Firebase | Cross-platform mobile app with production-quality UI and real-time syncing |
-| 🤖 [**AI/ML Classification Project**](https://github.com/YuvaHasini) | Python · scikit-learn · Keras · Pandas | Machine learning solution with data pipeline, model training, and evaluation |
-| 🔗 [**Next.js Full-Stack App**](https://github.com/YuvaHasini) | Next.js · TypeScript · FastAPI · PostgreSQL | SSR-enabled app with REST APIs, JWT authentication, and Docker deployment |
-
-> ✏️ *Replace the above with your actual project names, links, and descriptions!*
+| 🤖 [**RapidCover**](https://github.com/YuvaHasini/RapidCover) | Python · AI/ML | AI-powered parametric income insurance for Q-Commerce delivery partners |
+| 🩸 [**LifeForgeConnect**](https://github.com/YuvaHasini/LifeForgeConnect-) | TypeScript · MIT License | AI-powered platform unifying donor access for organs, blood, bone marrow & donor milk in India |
+| 📚 [**Adaptive Learning Platform**](https://github.com/YuvaHasini/adaptive-learning-platform) | Python | DSA-based adaptive learning with Trie search, CourseGraph, priority scheduling & recommendation engine |
+| 📊 [**CodeAlpha Data Analytics**](https://github.com/YuvaHasini/CodeAlpha_DataAnalytics) | Jupyter Notebook · Python | Data analytics projects and explorations |
+| 🌐 [**Portfolio**](https://github.com/YuvaHasini/portfolio) | HTML | Personal developer portfolio website |
+| 🎮 [**Gesture Control for Presentations (STM32)**](https://github.com/YuvaHasini/Gesture-Control-for-Presentations-using-STM32) | C · Embedded Systems | Gesture-based presentation controller using STM32 microcontroller |
+| ☁️ [**Capstone: Edge Nodes**](https://github.com/YuvaHasini/capstone-project-29_edgenodes) | Python · Edge Computing | Edge computing capstone project built via GitHub Classroom |
 
 </div>
 
@@ -106,29 +108,19 @@ Proficient in **Python and Java**, with a solid understanding of core CS concept
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Yuva Hasini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvaHasini&theme=tokyo-night&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6584&hide_border=true&area=true&area_color=6C63FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📂 All Public Repositories
 
 <div align="center">
 
-| Repository | Language | Stars | Description |
-|:---|:---:|:---:|:---|
-| [Portfolio](https://github.com/YuvaHasini) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | — | Personal developer portfolio |
-| [Flutter App](https://github.com/YuvaHasini) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) | — | Cross-platform mobile application |
-| [AI/ML Project](https://github.com/YuvaHasini) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | — | Machine learning classification project |
-| [Next.js App](https://github.com/YuvaHasini) | ![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | — | Full-stack app with Next.js & FastAPI |
-| [React Frontend](https://github.com/YuvaHasini) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | — | Frontend web app with React & Vite |
-
-> ✏️ *Replace with your actual repo names, links, languages, and descriptions!*
+| Repository | Language | Description |
+|:---|:---:|:---|
+| [RapidCover](https://github.com/YuvaHasini/RapidCover) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | AI-powered parametric income insurance for Q-Commerce delivery partners |
+| [LifeForgeConnect](https://github.com/YuvaHasini/LifeForgeConnect-) | ![TS](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | AI-powered donor access platform for organs, blood & bone marrow |
+| [adaptive-learning-platform](https://github.com/YuvaHasini/adaptive-learning-platform) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | DSA-based adaptive learning with smart recommendation engine |
+| [CodeAlpha_DataAnalytics](https://github.com/YuvaHasini/CodeAlpha_DataAnalytics) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) | Data analytics projects and explorations |
+| [portfolio](https://github.com/YuvaHasini/portfolio) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) | Personal developer portfolio website |
+| [Gesture-Control-for-Presentations-using-STM32](https://github.com/YuvaHasini/Gesture-Control-for-Presentations-using-STM32) | ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) | Gesture-based STM32 presentation controller |
+| [capstone-project-29_edgenodes](https://github.com/YuvaHasini/capstone-project-29_edgenodes) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | Edge computing capstone project |
 
 </div>
 
