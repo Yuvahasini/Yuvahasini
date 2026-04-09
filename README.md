@@ -146,7 +146,7 @@ Proficient in **Python and Java**, with a solid understanding of core CS concept
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,3,12,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 *"Build what matters. Ship what works."*
 
