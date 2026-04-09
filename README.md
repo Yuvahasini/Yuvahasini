@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YUVA%20HASINI%20DUDDEKUNTA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Yuva%20Hasini%20Duddekunta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Development%20%7C%20Software%20Engineer&descAlignY=65&descSize=17&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Practical+%26+Scalable+Software;💡+Full-Stack+%7C+React+%7C+Flutter+%7C+Next.js;🤖+Python+%7C+scikit-learn+%7C+Data+Analytics;🏗️+Clean+Code+%7C+Docker+%7C+PostgreSQL)](https://git.io/typing-svg)
 
@@ -146,7 +146,7 @@ Proficient in **Python and Java**, with a solid understanding of core CS concept
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,3,12,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *"Build what matters. Ship what works."*
 
